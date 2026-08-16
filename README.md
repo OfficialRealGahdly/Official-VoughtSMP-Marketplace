@@ -1,10 +1,14 @@
-# Official VoughtSMP Marketplace
+# Official VoughtSMP Store
 
-> **The official marketplace for VoughtSMP.**
+> **Support VoughtSMP. Customize your experience. Keep progression earned.**
 
-The **Official VoughtSMP Marketplace** is the official store for VoughtSMP, offering players optional ways to purchase **Shards, Money, Keys, and selected server products** while supporting the continued development and maintenance of the server.
+The **Official VoughtSMP Store** is the official store for VoughtSMP, offering optional **cosmetics, titles, tags, effects, pets, and supporter products**.
 
-Purchases are **never required**. Players can continue earning progression through normal gameplay without spending real money.
+The store is built around one simple principle:
+
+> **Your money can change how you look — not how you play.**
+
+VoughtSMP does **not** sell Shards, in-game Money, Keys, powerful gear, Compound V abilities, gameplay boosts, or other products that provide a competitive advantage.
 
 ---
 
@@ -12,169 +16,315 @@ Purchases are **never required**. Players can continue earning progression throu
 
 VoughtSMP is committed to keeping the server **as far from pay-to-win as possible**.
 
-The marketplace is built around one principle:
+Players who spend **$0** should have the same opportunities to compete, progress, earn rewards, and enjoy the server as players who choose to support us.
 
-> **Spending money should never replace playing the game.**
+All store purchases are optional and focus on:
 
-Marketplace products and pricing are designed around the existing VoughtSMP economy. We aim to make purchases feel like an optional convenience or way to support the server—not the fastest or most powerful path to progression.
+* 🎨 Customization
+* ✨ Visual effects
+* 🏷️ Tags and titles
+* 💬 Chat cosmetics
+* 🐾 Cosmetic pets
+* 🏆 Supporter recognition
 
-Players who choose not to spend money should still be able to compete, progress, earn rewards, and enjoy the full server experience.
+### 🚫 We Do Not Sell
 
----
+* ❌ Shards
+* ❌ In-game Money
+* ❌ Keys
+* ❌ Weapons or powerful gear
+* ❌ Compound V abilities
+* ❌ Combat advantages
+* ❌ Gameplay boosts
+* ❌ Extra progression
+* ❌ Items that directly improve competitive performance
 
-## 💎 Shard Packs
-
-Shards are an important part of the VoughtSMP economy. Players naturally receive **1 Shard every 15 seconds**, allowing Shards to be earned through regular gameplay.
-
-Because Shards are used throughout the server economy and for purchasing keys, marketplace packs are intentionally balanced to avoid flooding the economy.
-
-| Pack                |  Price | Shards |
-| ------------------- | -----: | -----: |
-| **Starter Shards**  |  $4.99 |    250 |
-| **Small Shards**    |  $9.99 |    600 |
-| **Medium Shards**   | $19.99 |  1,250 |
-| **Large Shards**    | $39.99 |  2,750 |
-| **Ultimate Shards** | $74.99 |  5,500 |
-
-**Shard earning rate:** 1 Shard / 15 seconds
-
-> Marketplace Shards are intended as a convenience, not a replacement for earning Shards through gameplay.
+**Progression is earned in-game.**
 
 ---
 
-## 💰 Money Packs
+# 🎨 Cosmetics
 
-In-game Money can be earned through normal gameplay and the VoughtSMP economy.
+## 🏷️ Standard Tags
 
-| Pack              |  Price |    Money |
-| ----------------- | -----: | -------: |
-| **Pocket Change** |  $4.99 |  $25,000 |
-| **Cash Stack**    |  $9.99 |  $60,000 |
-| **Money Bag**     | $19.99 | $140,000 |
-| **Money Vault**   | $39.99 | $325,000 |
-| **Fortune**       | $74.99 | $750,000 |
+Show off your style with pre-made cosmetic tags.
 
-Money packs are designed to provide convenience without allowing real-money purchases to completely replace the server's economy.
+| Product           | Price | Duration  |
+| ----------------- | ----: | --------- |
+| **Standard Tag**  | $2.99 | Permanent |
+| **Rare Tag**      | $4.99 | Permanent |
+| **Legendary Tag** | $7.99 | Permanent |
 
----
-
-## 🔑 Key Packs
-
-Keys are available through normal gameplay and the VoughtSMP economy. Marketplace keys are priced as premium products to help preserve the value of earning them normally.
-
-### Common Keys
-
-| Pack                  |  Price | Contents       |
-| --------------------- | -----: | -------------- |
-| **Common Key**        |  $4.99 | 1× Common Key  |
-| **Common Key Bundle** | $14.99 | 3× Common Keys |
-| **Common Key Crate**  | $24.99 | 5× Common Keys |
-
-### Gold Keys
-
-| Pack                |  Price | Contents     |
-| ------------------- | -----: | ------------ |
-| **Gold Key**        | $24.99 | 1× Gold Key  |
-| **Gold Key Bundle** | $69.99 | 3× Gold Keys |
-
-### Prime Keys
-
-| Pack                 |  Price | Contents      |
-| -------------------- | -----: | ------------- |
-| **Prime Key**        | $24.99 | 1× Prime Key  |
-| **Prime Key Bundle** | $69.99 | 3× Prime Keys |
-
-### Crimson Keys
-
-| Pack                   |  Price | Contents        |
-| ---------------------- | -----: | --------------- |
-| **Crimson Key**        | $34.99 | 1× Crimson Key  |
-| **Crimson Key Bundle** | $99.99 | 3× Crimson Keys |
-
-### Amethyst Keys
-
-| Pack                    |   Price | Contents         |
-| ----------------------- | ------: | ---------------- |
-| **Amethyst Key**        |  $59.99 | 1× Amethyst Key  |
-| **Amethyst Key Bundle** | $169.99 | 3× Amethyst Keys |
-
-> Higher-tier keys are intentionally premium-priced. This helps protect the value of Shards and keeps real-money purchases from becoming the primary way to obtain high-tier rewards.
+Standard tags are pre-approved cosmetic options and require no custom review.
 
 ---
 
-## 🎁 Other Marketplace Products
+# ✍️ Custom Tags
 
-The marketplace may also feature:
+Want something unique?
 
-* 🎁 Special Items
-* ⚡ Limited-Time Products
-* ⭐ Seasonal Products
-* 🏆 Event Products
-* 🎨 Cosmetic Products
-* 🔥 Server Supporter Products
-* 📦 Special Bundles
+Custom Tags allow players to request their own personalized cosmetic tag.
 
-Products may be added, removed, or adjusted as VoughtSMP develops.
+Because players choose the text themselves, **every custom tag must be reviewed and approved by VoughtSMP staff before it is activated.**
+
+| Product                |      Price | Duration  |
+| ---------------------- | ---------: | --------- |
+| **Custom Tag**         | **$14.99** | Permanent |
+| **Custom Tag + Style** | **$19.99** | Permanent |
+| **Custom Tag Bundle**  | **$24.99** | Permanent |
+
+### 📋 Custom Tag Policy
+
+Custom Tags are intended for **fun, creative, and server-appropriate content**.
+
+A request may be rejected if it:
+
+* ❌ Contains sexual, explicit, or suggestive content.
+* ❌ Contains slurs, hateful content, or discriminatory language.
+* ❌ Contains excessive profanity or vulgar language.
+* ❌ Is designed to provoke, harass, mock, or target another player.
+* ❌ Contains political, ideological, or controversial statements.
+* ❌ Is intended to start arguments or unnecessary drama.
+* ❌ Attempts to impersonate staff, creators, ranks, or official positions.
+* ❌ Makes false claims about permissions, achievements, or server status.
+* ❌ Contains advertisements, server IPs, Discord invites, or external promotions.
+* ❌ Attempts to bypass chat or moderation rules.
+* ❌ Contains another person's private or personal information.
+* ❌ Is intentionally misleading or designed to deceive other players.
+* ❌ Violates VoughtSMP rules or community standards.
+* ❌ Is otherwise considered inappropriate or unsuitable by VoughtSMP staff.
+
+### 🚫 Staff & Rank Impersonation
+
+Custom Tags cannot imitate official VoughtSMP ranks, staff positions, permissions, or authority.
+
+Examples of prohibited tags include:
+
+```text
+[OWNER]
+[ADMIN]
+[MOD]
+[STAFF]
+[DEVELOPER]
+```
+
+Players may not use a Custom Tag to make others believe they have authority they do not actually possess.
+
+### 🔎 Approval Process
+
+Custom Tags are **not automatically approved after purchase**.
+
+1. Submit your requested tag.
+2. VoughtSMP staff review the request.
+3. If approved, the tag is activated.
+4. If rejected, you may be allowed to submit another request.
+
+**Purchasing a Custom Tag does not guarantee approval of the requested text.**
+
+VoughtSMP may remove a previously approved Custom Tag if it later violates these rules.
 
 ---
 
-## 📋 Marketplace Guidelines
+# 🎭 Cosmetic Titles
 
-To keep the marketplace fair and the economy healthy:
+Display a unique title on your profile or supported server interfaces.
 
-* **Purchases are optional.**
-* Normal gameplay will remain a valid way to progress.
-* Marketplace pricing may be adjusted when necessary to protect the economy.
-* Products will not intentionally be priced to make normal gameplay irrelevant.
-* Limited-time products may not always return.
+| Product             |      Price | Duration  |
+| ------------------- | ---------: | --------- |
+| **Standard Title**  |      $2.99 | Permanent |
+| **Rare Title**      |      $4.99 | Permanent |
+| **Legendary Title** |      $7.99 | Permanent |
+| **Custom Title**    | **$14.99** | Permanent |
+
+Custom Titles follow the same approval requirements as Custom Tags.
+
+Titles cannot imitate official staff ranks, permissions, or authority.
+
+---
+
+# ✨ Particle Effects
+
+Add unique visual effects to your character.
+
+| Product                       | Price |
+| ----------------------------- | ----: |
+| **Basic Particle Effect**     | $2.99 |
+| **Rare Particle Effect**      | $4.99 |
+| **Epic Particle Effect**      | $6.99 |
+| **Legendary Particle Effect** | $9.99 |
+
+Possible effects may include:
+
+* ✨ Aura
+* ⚡ Energy
+* 🔥 Flame
+* 💫 Spark
+* 🌌 Cosmic
+* 💎 Crystal
+* 🌪️ Wind
+
+Particle effects are purely visual and cannot affect gameplay.
+
+---
+
+# 💬 Chat Cosmetics
+
+Customize your appearance in chat.
+
+| Product               | Price | Duration  |
+| --------------------- | ----: | --------- |
+| **Chat Style**        | $2.99 | Permanent |
+| **Chat Prefix**       | $4.99 | Permanent |
+| **Chat Effect**       | $5.99 | Permanent |
+| **Premium Chat Pack** | $8.99 | Permanent |
+
+Chat cosmetics cannot provide moderation permissions, increased visibility to staff, gameplay benefits, or competitive advantages.
+
+---
+
+# 🐾 Cosmetic Pets
+
+Bring a cosmetic companion with you while you play.
+
+| Product           |  Price |
+| ----------------- | -----: |
+| **Basic Pet**     |  $4.99 |
+| **Rare Pet**      |  $7.99 |
+| **Epic Pet**      |  $9.99 |
+| **Legendary Pet** | $14.99 |
+
+### Pets Cannot
+
+* Attack players or mobs
+* Defend the player
+* Collect items
+* Provide buffs
+* Provide abilities
+* Affect combat
+* Affect progression
+* Provide additional resources
+
+Pets are **100% cosmetic**.
+
+---
+
+# 🏆 Supporter Badges
+
+Support VoughtSMP and receive a cosmetic badge recognizing your support.
+
+| Supporter Tier          |  Price | Badge               |
+| ----------------------- | -----: | ------------------- |
+| **Supporter**           |  $4.99 | Supporter           |
+| **Elite Supporter**     |  $9.99 | Elite Supporter     |
+| **Legendary Supporter** | $19.99 | Legendary Supporter |
+| **Founder**             | $29.99 | Founder             |
+
+Supporter badges provide **recognition only** and do not grant gameplay advantages.
+
+---
+
+# 🎁 Cosmetic Bundles
+
+Purchase multiple cosmetics together through themed bundles.
+
+| Bundle               |  Price | Includes                                                |
+| -------------------- | -----: | ------------------------------------------------------- |
+| **Starter Bundle**   |  $7.99 | 1 Tag + 1 Title + 1 Particle                            |
+| **Style Bundle**     | $12.99 | 1 Tag + 1 Title + 1 Chat Cosmetic + 1 Particle          |
+| **Companion Bundle** | $17.99 | 1 Pet + 1 Tag + 1 Particle                              |
+| **Elite Bundle**     | $24.99 | 1 Pet + 1 Title + 1 Tag + 2 Particles                   |
+| **Ultimate Bundle**  | $34.99 | 1 Pet + 1 Title + 1 Tag + 1 Chat Cosmetic + 3 Particles |
+
+Bundle contents are displayed before purchase.
+
+**Custom Tags and Custom Titles are not automatically included in bundles unless specifically stated.**
+
+---
+
+# 🌟 Limited & Seasonal Cosmetics
+
+VoughtSMP may occasionally release limited cosmetics for special events and seasons.
+
+Examples include:
+
+* 🎃 Halloween
+* ❄️ Winter
+* 🎄 Holiday
+* 💘 Valentine's
+* ☀️ Summer
+* 🏆 Server Events
+* 🎉 VoughtSMP Anniversaries
+
+Limited products may be retired after their event and are **not guaranteed to return**.
+
+---
+
+# 📋 Store Guidelines
+
+To keep the store fair, transparent, and safe:
+
+* **All purchases are optional.**
+* No product may intentionally provide a competitive gameplay advantage.
+* Progression remains earned through gameplay.
 * Product contents will be clearly displayed before purchase.
-* Players should verify their Minecraft username before completing an order.
-* Players should only purchase through the **Official VoughtSMP Marketplace**.
-* VoughtSMP reserves the right to remove or modify products when necessary for server balance.
+* Prices may change for future products.
+* Limited products may not return.
+* Cosmetics may be modified or retired as VoughtSMP develops.
+* Players must verify their Minecraft username before purchasing.
+* Purchases should only be made through the official VoughtSMP Store.
+* VoughtSMP may remove products that negatively affect gameplay, moderation, or server performance.
+* Custom Tags and Titles require approval before activation.
+* Purchasing a custom product does **not** guarantee approval of the requested content.
 
 ---
 
-## 💳 Before You Purchase
+# 💳 Before You Purchase
 
-Please verify the following before completing an order:
+### Minecraft Username
 
-**Minecraft Username**
-Make sure the account receiving the purchase is correct.
+Make sure the purchase is being delivered to the **correct Minecraft account**.
 
-**Product**
-Review exactly what the product contains before purchasing.
+### Product
 
-**Price**
-Make sure the displayed price is correct before completing checkout.
+Read the complete product description and confirm exactly what you're purchasing.
 
-**Official Store**
-Only purchase through official VoughtSMP marketplace links.
+### Price
 
----
+Verify the displayed price before completing checkout.
 
-## 🔒 Official Marketplace
+### Custom Products
 
-This is the **Official VoughtSMP Marketplace**.
+If purchasing a Custom Tag or Custom Title, remember that the requested text must be approved by VoughtSMP staff.
 
-Be careful of unofficial websites, fake stores, or individuals claiming to sell VoughtSMP products.
+### Official Store
 
-**If a store link was not provided through an official VoughtSMP channel, do not assume it is legitimate.**
+Only use marketplace links published through official VoughtSMP channels.
 
 ---
 
-## 🛡️ Economy Protection
+# 🛡️ Our Promise
 
-VoughtSMP reserves the right to adjust marketplace products, quantities, and prices when necessary to protect the server economy and gameplay experience.
+VoughtSMP will prioritize the **long-term health of the server over short-term store revenue**.
 
-If a product is found to have an unintended effect on the economy or competitive balance, it may be temporarily removed or adjusted.
+If a product creates an unintended gameplay advantage, affects competitive balance, or negatively impacts the server experience, VoughtSMP reserves the right to modify, replace, or remove it.
 
-Our priority is maintaining a server where **time, skill, strategy, and gameplay still matter.**
+> **We want players to remember VoughtSMP for the gameplay — not how much they spent.**
 
 ---
 
-## 📜 License
+# 🔒 Official Store
 
-The VoughtSMP Marketplace source code, designs, assets, branding, and associated materials are proprietary to VoughtSMP.
+This is the **Official VoughtSMP Store**.
+
+Be cautious of unofficial websites, fake stores, or individuals claiming to sell VoughtSMP products.
+
+**Only trust store links published through official VoughtSMP channels.**
+
+---
+
+# 📜 License
+
+The VoughtSMP Store source code, designs, assets, branding, and associated materials are proprietary to VoughtSMP.
 
 Unauthorized copying, redistribution, modification, reproduction, or reuse is prohibited.
 
@@ -182,16 +332,16 @@ See [`LICENSE`](LICENSE) for the complete terms.
 
 ---
 
-## 🌐 VoughtSMP
+# 🌐 VoughtSMP
 
 **Server:** `VoughtSMP.net`
 
 **Platform:** Java & Bedrock
 
-**Store:** Official VoughtSMP Marketplace
+**Store:** Official VoughtSMP Store
 
 ---
 
 © 2026 **VoughtSMP**. All Rights Reserved.
 
-> **Grind it. Earn it. Or skip the grind.**
+> **Earn your power. Build your legacy.**

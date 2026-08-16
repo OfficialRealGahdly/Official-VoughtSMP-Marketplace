@@ -2,24 +2,9 @@
 
 > **The official marketplace for VoughtSMP.**
 
-The **Official VoughtSMP Marketplace** is the official online store for VoughtSMP, providing players with a convenient way to purchase **Shards, Money, Keys, and other server products**.
+The **Official VoughtSMP Marketplace** gives players a convenient way to purchase **Shards, Money, Keys, and other server products** while supporting the continued development of VoughtSMP.
 
-Save time, support the server, and skip some of the grind — while keeping normal gameplay available to everyone.
-
----
-
-## 🛒 Marketplace
-
-The Official VoughtSMP Marketplace may feature:
-
-* 💎 **Shards**
-* 💰 **In-Game Money**
-* 🔑 **Keys**
-* 🎁 **Special Items**
-* ⚡ **Limited-Time Products**
-* ⭐ **Additional Server Products**
-
-Products, availability, and pricing may change as VoughtSMP continues to grow.
+Purchases are completely optional. Everything that can be earned through normal gameplay remains available without spending real money.
 
 ---
 
@@ -27,19 +12,70 @@ Products, availability, and pricing may change as VoughtSMP continues to grow.
 
 VoughtSMP is committed to keeping the server **as far from pay-to-win as possible**.
 
-Marketplace purchases are completely optional, and everything that can be earned through gameplay remains obtainable through normal play.
+The marketplace is designed to support the server without replacing gameplay. Products and prices are carefully balanced around the in-game economy so real-money purchases don't make normal progression feel pointless.
 
-Products are **intentionally premium-priced** to discourage players from relying on real-money purchases for progression and to help protect the server's economy and competitive balance.
+The goal is simple: **spending money should never be the best way to progress.**
 
-**Grind it. Earn it. Spend if you choose.**
+---
+
+## 💎 Shard Packs
+
+| Pack                |  Price |       Amount |
+| ------------------- | -----: | -----------: |
+| **Starter Shards**  |  $4.99 |   100 Shards |
+| **Small Shards**    |  $9.99 |   225 Shards |
+| **Medium Shards**   | $19.99 |   500 Shards |
+| **Large Shards**    | $39.99 | 1,100 Shards |
+| **Ultimate Shards** | $74.99 | 2,250 Shards |
+
+---
+
+## 💰 Money Packs
+
+| Pack              |  Price |   Amount |
+| ----------------- | -----: | -------: |
+| **Pocket Change** |  $4.99 |  $25,000 |
+| **Cash Stack**    |  $9.99 |  $60,000 |
+| **Money Bag**     | $19.99 | $140,000 |
+| **Money Vault**   | $39.99 | $325,000 |
+| **Fortune**       | $74.99 | $750,000 |
+
+---
+
+## 🔑 Key Packs
+
+| Pack                  |  Price | Keys            |
+| --------------------- | -----: | --------------- |
+| **Common Key**        |  $4.99 | 1× Common Key   |
+| **Common Key Bundle** | $14.99 | 3× Common Keys  |
+| **Gold Key**          | $24.99 | 1× Gold Key     |
+| **Prime Key**         | $24.99 | 1× Prime Key    |
+| **Crimson Key**       | $34.99 | 1× Crimson Key  |
+| **Amethyst Key**      | $59.99 | 1× Amethyst Key |
+
+Higher-value keys are intentionally priced as premium products to help protect the in-game economy and keep real-money purchases from becoming the primary path to progression.
+
+---
+
+## 🛒 Other Products
+
+The marketplace may also feature:
+
+* 🎁 Special Items
+* ⚡ Limited-Time Products
+* ⭐ Seasonal Products
+* 🏆 Event-Related Items
+* 🔥 Server Supporter Products
+
+Products, prices, and availability may change as VoughtSMP develops.
 
 ---
 
 ## 🔒 Official Store
 
-This is the **official marketplace associated with VoughtSMP**.
+This is the **Official VoughtSMP Marketplace**.
 
-Only use marketplace links provided through official VoughtSMP channels to avoid fraudulent or impersonating websites.
+Only use marketplace links published through official VoughtSMP channels. Be cautious of websites or individuals pretending to represent VoughtSMP.
 
 ---
 
@@ -59,7 +95,7 @@ See [`LICENSE`](LICENSE) for the complete terms.
 
 **Platform:** Java & Bedrock
 
-**Marketplace:** Official VoughtSMP Marketplace
+**Store:** Official VoughtSMP Marketplace
 
 ---
 

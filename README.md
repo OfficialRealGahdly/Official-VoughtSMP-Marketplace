@@ -17,16 +17,15 @@ The marketplace is designed to support the server without replacing gameplay. Pr
 The goal is simple: **spending money should never be the best way to progress.**
 
 ---
-
-## 💎 Shard Packs
-
+💎 Revised Shard Packs
 | Pack                |  Price |       Amount |
 | ------------------- | -----: | -----------: |
-| **Starter Shards**  |  $4.99 |   100 Shards |
-| **Small Shards**    |  $9.99 |   225 Shards |
-| **Medium Shards**   | $19.99 |   500 Shards |
-| **Large Shards**    | $39.99 | 1,100 Shards |
-| **Ultimate Shards** | $74.99 | 2,250 Shards |
+| **Starter Shards**  |  $4.99 |   250 Shards |
+| **Small Shards**    |  $9.99 |   600 Shards |
+| **Medium Shards**   | $19.99 | 1,250 Shards |
+| **Large Shards**    | $39.99 | 2,750 Shards |
+| **Ultimate Shards** | $74.99 | 5,500 Shards |
+
 
 ---
 

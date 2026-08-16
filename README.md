@@ -25,11 +25,13 @@ Products, availability, and pricing may change as VoughtSMP continues to grow.
 
 ## ⚖️ Fair & Optional
 
-Purchasing from the marketplace is **completely optional**.
+VoughtSMP is committed to keeping the server **as far from pay-to-win as possible**.
 
-Players can still earn progression, money, keys, and other rewards through normal gameplay without spending real money.
+Marketplace purchases are completely optional, and everything that can be earned through gameplay remains obtainable through normal play.
 
-Marketplace products and pricing are carefully managed to help maintain a balanced server economy.
+Products are **intentionally premium-priced** to discourage players from relying on real-money purchases for progression and to help protect the server's economy and competitive balance.
+
+**Grind it. Earn it. Spend if you choose.**
 
 ---
 
